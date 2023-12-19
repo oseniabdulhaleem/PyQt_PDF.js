@@ -7,5 +7,5 @@ the only issue left is to save it. feel free to make a pull request
 # Run the code
 
 ```py
-python main.py
+python ./main.py
 ```
